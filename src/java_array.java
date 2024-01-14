@@ -1,8 +1,8 @@
 import java.util.ArrayList;
-import java.util.Collections;
+//import java.util.Collections;
 public class java_array {
     public static void main(String[] args) {
-        ArrayList<String> cars = new ArrayList<String>();
+//        ArrayList<String> cars = new ArrayList<String>();
         cars.add("Volvo");
         cars.add("BMW");
         cars.add("Ford");
